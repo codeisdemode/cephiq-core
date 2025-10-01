@@ -1,3 +1,5 @@
+Under construction:
+
 # Cephiq Core - AI Agent Orchestration Platform
 
 A sophisticated AI agent orchestration system built with Model Context Protocol (MCP) that enables intelligent workflow automation, contract analysis, and multi-agent collaboration.
@@ -7,8 +9,6 @@ A sophisticated AI agent orchestration system built with Model Context Protocol 
 ### Core Capabilities
 - **MCP Server Architecture**: Hybrid PowerShell + Python MCP server with SSE and stdio transports
 - **Workflow Automation**: Template-based workflow system with dynamic tool registration
-- **Contract Analysis**: Specialized workflows for Dutch construction contract compliance
-- **PDF Processing**: Intelligent PDF text extraction with OCR fallback
 - **Multi-Agent Collaboration**: Advanced agent orchestration with state management
 
 ### Workflow System
